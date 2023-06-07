@@ -1,0 +1,9 @@
+torch
+tensorflow
+sentencepiece
+xformers
+transformers
+datasets
+evaluate
+jiwer
+librosa

@@ -7,3 +7,6 @@ datasets
 evaluate
 jiwer
 librosa
+pydub
+sounddevice
+audioread
